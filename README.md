@@ -8,6 +8,9 @@ _Import header file to Binary Ninja types view_
 Binary Ninja plugin to import types from C header file (.h) to types view
 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/8758978/146993470-0230ca00-6045-4552-9c55-cab22f49872d.gif)
+
+
 ## Installation Instructions
 
 ### Darwin
