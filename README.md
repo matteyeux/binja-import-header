@@ -1,6 +1,8 @@
 # binja-import-header (v1.0.0)
 Author: **matteyeux**
 
+**Since 3.2.3852-dev Binja has this feature natively**
+
 _Import header file to Binary Ninja types view_
 
 ## Description:
